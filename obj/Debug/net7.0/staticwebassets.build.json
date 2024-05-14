@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "yUhW+MdQZQj2MYOO9bO/RSuxONOMcvqy9H5/Tri4uDw=",
+  "Hash": "W4Xtzx8mEXMhv30ZASnIJP6chJ0SMLFzfmBEY+PIIFg=",
   "Source": "dijitalSanatGalerisi",
   "BasePath": "_content/dijitalSanatGalerisi",
   "Mode": "Default",
@@ -236,6 +236,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/css/css/mixins/_text-hide.css"
+    },
+    {
+      "Identity": "/Users/asude/Desktop/webProje/dijitalSanatGalerisi/wwwroot/css/exhibitions.css",
+      "SourceId": "dijitalSanatGalerisi",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/asude/Desktop/webProje/dijitalSanatGalerisi/wwwroot/",
+      "BasePath": "_content/dijitalSanatGalerisi",
+      "RelativePath": "css/exhibitions.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/css/exhibitions.css"
     },
     {
       "Identity": "/Users/asude/Desktop/webProje/dijitalSanatGalerisi/wwwroot/css/flaticon.css",

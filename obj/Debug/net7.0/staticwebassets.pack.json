@@ -49,6 +49,10 @@
       "PackagePath": "staticwebassets/css/css/mixins/_text-hide.css"
     },
     {
+      "Id": "/Users/asude/Desktop/webProje/dijitalSanatGalerisi/wwwroot/css/exhibitions.css",
+      "PackagePath": "staticwebassets/css/exhibitions.css"
+    },
+    {
       "Id": "/Users/asude/Desktop/webProje/dijitalSanatGalerisi/wwwroot/css/flaticon.css",
       "PackagePath": "staticwebassets/css/flaticon.css"
     },
