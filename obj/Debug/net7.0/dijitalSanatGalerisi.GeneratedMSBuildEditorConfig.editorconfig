@@ -20,12 +20,36 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[/Users/asude/Desktop/webProje/dijitalSanatGalerisi/Pages/GirisYap.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvR2lyaXNZYXAuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/asude/Desktop/webProje/dijitalSanatGalerisi/Pages/Hakkimda.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSGFra2ltZGEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/asude/Desktop/webProje/dijitalSanatGalerisi/Pages/iletisim.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvaWxldGlzaW0uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [/Users/asude/Desktop/webProje/dijitalSanatGalerisi/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [/Users/asude/Desktop/webProje/dijitalSanatGalerisi/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/asude/Desktop/webProje/dijitalSanatGalerisi/Pages/Sanatcilar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2FuYXRjaWxhci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/asude/Desktop/webProje/dijitalSanatGalerisi/Pages/SanatEserleri.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2FuYXRFc2VybGVyaS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/asude/Desktop/webProje/dijitalSanatGalerisi/Pages/SergiIcerik.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2VyZ2lJY2VyaWsuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [/Users/asude/Desktop/webProje/dijitalSanatGalerisi/Pages/Sergiler.cshtml]
