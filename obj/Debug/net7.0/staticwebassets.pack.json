@@ -249,6 +249,14 @@
       "PackagePath": "staticwebassets/images/loc.png"
     },
     {
+      "Id": "/Users/asude/Desktop/webProje/dijitalSanatGalerisi/wwwroot/images/luminoArtLogo1.png",
+      "PackagePath": "staticwebassets/images/luminoArtLogo1.png"
+    },
+    {
+      "Id": "/Users/asude/Desktop/webProje/dijitalSanatGalerisi/wwwroot/images/luminoArtLogo2.png",
+      "PackagePath": "staticwebassets/images/luminoArtLogo2.png"
+    },
+    {
       "Id": "/Users/asude/Desktop/webProje/dijitalSanatGalerisi/wwwroot/images/me.png",
       "PackagePath": "staticwebassets/images/me.png"
     },

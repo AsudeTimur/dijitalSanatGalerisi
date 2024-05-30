@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "W4Xtzx8mEXMhv30ZASnIJP6chJ0SMLFzfmBEY+PIIFg=",
+  "Hash": "K+29fjukXVTYUx14qwylNjfvAl0fiteDmslDuCOLIZk=",
   "Source": "dijitalSanatGalerisi",
   "BasePath": "_content/dijitalSanatGalerisi",
   "Mode": "Default",
@@ -1035,6 +1035,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/images/loc.png"
+    },
+    {
+      "Identity": "/Users/asude/Desktop/webProje/dijitalSanatGalerisi/wwwroot/images/luminoArtLogo1.png",
+      "SourceId": "dijitalSanatGalerisi",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/asude/Desktop/webProje/dijitalSanatGalerisi/wwwroot/",
+      "BasePath": "_content/dijitalSanatGalerisi",
+      "RelativePath": "images/luminoArtLogo1.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/luminoArtLogo1.png"
+    },
+    {
+      "Identity": "/Users/asude/Desktop/webProje/dijitalSanatGalerisi/wwwroot/images/luminoArtLogo2.png",
+      "SourceId": "dijitalSanatGalerisi",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/asude/Desktop/webProje/dijitalSanatGalerisi/wwwroot/",
+      "BasePath": "_content/dijitalSanatGalerisi",
+      "RelativePath": "images/luminoArtLogo2.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/luminoArtLogo2.png"
     },
     {
       "Identity": "/Users/asude/Desktop/webProje/dijitalSanatGalerisi/wwwroot/images/me.png",
